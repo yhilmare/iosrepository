@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>itemName</key>
+		<string>定位城市</string>
+		<key>buttonName</key>
+		<array>
+			<string>点击定位</string>
+		</array>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>最近访问城市</string>
+		<key>buttonName</key>
+		<array>
+			<string>北京市</string>
+			<string>上海市</string>
+			<string>广州市</string>
+		</array>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>热门城市</string>
+		<key>buttonName</key>
+		<array>
+			<string>上海市</string>
+			<string>北京市</string>
+			<string>广州市</string>
+			<string>西安市</string>
+			<string>深圳市</string>
+			<string>成都市</string>
+			<string>重庆市</string>
+			<string>南京市</string>
+			<string>杭州市</string>
+		</array>
+	</dict>
+</array>
+</plist>

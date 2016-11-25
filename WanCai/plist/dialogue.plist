@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>viewTag</key>
+		<string>0</string>
+		<key>comName</key>
+		<string>匿名公司</string>
+		<key>detailMsg</key>
+		<string>你的专业不是很对口，很遗憾，你被淘汰了,请不要灰心哦，加油！！</string>
+		<key>date</key>
+		<string>2014/3/26 12:54:25</string>
+		<key>iconName</key>
+		<string>anon_group_loading_fail</string>
+	</dict>
+	<dict>
+		<key>viewTag</key>
+		<string>0</string>
+		<key>comName</key>
+		<string>匿名公司</string>
+		<key>detailMsg</key>
+		<string>快来面试吧！</string>
+		<key>date</key>
+		<string>2014/2/26 8:34:45</string>
+		<key>iconName</key>
+		<string>aio_voiceChange_effect_2</string>
+	</dict>
+	<dict>
+		<key>viewTag</key>
+		<string>0</string>
+		<key>comName</key>
+		<string>匿名公司</string>
+		<key>detailMsg</key>
+		<string>很抱歉，您已经被淘汰，祝您工作顺利。</string>
+		<key>date</key>
+		<string>2014/1/3 17:23:34</string>
+		<key>iconName</key>
+		<string>anon_group_chat_forbid</string>
+	</dict>
+	<dict>
+		<key>viewTag</key>
+		<string>0</string>
+		<key>comName</key>
+		<string>匿名公司</string>
+		<key>detailMsg</key>
+		<string>我们公司对你的简历十分感兴趣，非常欢迎你来我们公司面试，请与我们联系面试时间！</string>
+		<key>date</key>
+		<string>2013/7/26 15:34:45</string>
+		<key>iconName</key>
+		<string>aio_voiceChange_effect_2</string>
+	</dict>
+</array>
+</plist>

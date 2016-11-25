@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>adImage</key>
+		<string>ad_ruanjian</string>
+		<key>adDesc</key>
+		<string>软件</string>
+	</dict>
+	<dict>
+		<key>adImage</key>
+		<string>ad_guanli</string>
+		<key>adDesc</key>
+		<string>管理</string>
+	</dict>
+	<dict>
+		<key>adImage</key>
+		<string>ad_benke</string>
+		<key>adDesc</key>
+		<string>本科</string>
+	</dict>
+	<dict>
+		<key>adImage</key>
+		<string>ad_sheji</string>
+		<key>adDesc</key>
+		<string>设计</string>
+	</dict>
+	<dict>
+		<key>adImage</key>
+		<string>ad_guanggao</string>
+		<key>adDesc</key>
+		<string>广告</string>
+	</dict>
+	<dict>
+		<key>adImage</key>
+		<string>ad_shichang</string>
+		<key>adDesc</key>
+		<string>市场</string>
+	</dict>
+	<dict>
+		<key>adImage</key>
+		<string>ad_ios</string>
+		<key>adDesc</key>
+		<string>IOS</string>
+	</dict>
+	<dict>
+		<key>adImage</key>
+		<string>ad_jiaoyu</string>
+		<key>adDesc</key>
+		<string>教育</string>
+	</dict>
+</array>
+</plist>

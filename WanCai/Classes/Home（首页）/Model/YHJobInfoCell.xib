@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="80" id="KGk-i7-Jjw" customClass="YHJobInfoCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="59"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="N0C-ON-TCB">
+                        <rect key="frame" x="8" y="5" width="50" height="50"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="50" id="ysV-FL-E2g"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="jobName" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9zI-7f-njp">
+                        <rect key="frame" x="74" y="5" width="142" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="updateTime" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iU6-G1-bQ7">
+                        <rect key="frame" x="221" y="5" width="91" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="companyName" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YLP-Rk-ArW">
+                        <rect key="frame" x="74" y="19" width="116" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="116" id="YwT-Xq-Wcu"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="cityName" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kVw-6Z-4Jq">
+                        <rect key="frame" x="74" y="37" width="73" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="73" id="3P4-dE-kd8"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="salary" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E9u-Tx-vec">
+                        <rect key="frame" x="232" y="34" width="69" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="mKY-l1-AUq"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottomMargin" secondItem="kVw-6Z-4Jq" secondAttribute="bottom" constant="-7" id="00f-EH-GYs"/>
+                    <constraint firstItem="E9u-Tx-vec" firstAttribute="centerX" secondItem="iU6-G1-bQ7" secondAttribute="centerX" id="0ap-iN-lIz"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="9zI-7f-njp" secondAttribute="trailing" constant="96" id="2xB-3Q-gur"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="N0C-ON-TCB" secondAttribute="bottom" constant="5" id="7Yv-MB-iv5"/>
+                    <constraint firstItem="N0C-ON-TCB" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="5" id="Ays-uX-Bmy"/>
+                    <constraint firstItem="E9u-Tx-vec" firstAttribute="leading" secondItem="YLP-Rk-ArW" secondAttribute="trailing" constant="42" id="CzA-I4-8Tm"/>
+                    <constraint firstItem="N0C-ON-TCB" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="5" id="DED-by-ObK"/>
+                    <constraint firstItem="YLP-Rk-ArW" firstAttribute="leading" secondItem="9zI-7f-njp" secondAttribute="leading" id="DqH-nL-aSE"/>
+                    <constraint firstItem="iU6-G1-bQ7" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="5" id="EWT-f7-Hy3"/>
+                    <constraint firstItem="YLP-Rk-ArW" firstAttribute="top" secondItem="9zI-7f-njp" secondAttribute="bottom" constant="-7" id="GSq-C2-P1v"/>
+                    <constraint firstItem="YLP-Rk-ArW" firstAttribute="centerY" secondItem="N0C-ON-TCB" secondAttribute="centerY" id="Kj1-VM-XBE"/>
+                    <constraint firstItem="iU6-G1-bQ7" firstAttribute="trailing" secondItem="H2p-sc-9uM" secondAttribute="trailingMargin" constant="5" id="O8N-BL-ybH"/>
+                    <constraint firstItem="iU6-G1-bQ7" firstAttribute="leading" secondItem="YLP-Rk-ArW" secondAttribute="trailing" constant="31" id="V5b-aU-zBT"/>
+                    <constraint firstItem="kVw-6Z-4Jq" firstAttribute="top" secondItem="YLP-Rk-ArW" secondAttribute="bottom" constant="-3" id="VRM-Ym-oBx"/>
+                    <constraint firstItem="E9u-Tx-vec" firstAttribute="bottom" secondItem="N0C-ON-TCB" secondAttribute="bottom" id="aQQ-tE-pHU"/>
+                    <constraint firstItem="9zI-7f-njp" firstAttribute="leading" secondItem="N0C-ON-TCB" secondAttribute="trailing" constant="16" id="bpW-A0-AuE"/>
+                    <constraint firstItem="9zI-7f-njp" firstAttribute="top" secondItem="N0C-ON-TCB" secondAttribute="top" id="fsX-vh-po9"/>
+                    <constraint firstItem="E9u-Tx-vec" firstAttribute="top" secondItem="iU6-G1-bQ7" secondAttribute="bottom" constant="8" id="k4E-Md-FNb"/>
+                    <constraint firstItem="9zI-7f-njp" firstAttribute="leading" secondItem="N0C-ON-TCB" secondAttribute="trailing" constant="16" id="pp4-Tu-WnZ"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="9zI-7f-njp" secondAttribute="bottom" constant="25" id="rMJ-Dh-mTX"/>
+                    <constraint firstItem="kVw-6Z-4Jq" firstAttribute="leading" secondItem="YLP-Rk-ArW" secondAttribute="leading" id="v6p-M8-hSj"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="CityNameLabel" destination="kVw-6Z-4Jq" id="VrJ-Xs-Gv6"/>
+                <outlet property="companyNameLabel" destination="YLP-Rk-ArW" id="HXj-Nq-whS"/>
+                <outlet property="jobImageView" destination="N0C-ON-TCB" id="my9-cw-DQA"/>
+                <outlet property="jobNameLabel" destination="9zI-7f-njp" id="JLh-6a-EDT"/>
+                <outlet property="salaryLabel" destination="E9u-Tx-vec" id="WBO-Iu-WhN"/>
+                <outlet property="updateDataLabel" destination="iU6-G1-bQ7" id="nSd-ma-T6k"/>
+            </connections>
+            <point key="canvasLocation" x="140" y="394"/>
+        </tableViewCell>
+    </objects>
+</document>

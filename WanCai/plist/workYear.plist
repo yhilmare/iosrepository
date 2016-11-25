@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>请选择</string>
+	<string>在读学生</string>
+	<string>应届毕业生</string>
+	<string>1年</string>
+	<string>2年</string>
+	<string>3-4年</string>
+	<string>5-7年</string>
+	<string>8-9年</string>
+	<string>10年以上</string>
+</array>
+</plist>

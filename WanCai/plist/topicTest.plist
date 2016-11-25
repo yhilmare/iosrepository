@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>userId</key>
+		<string>23456</string>
+		<key>iconName</key>
+		<string>IMG_3988</string>
+		<key>userName</key>
+		<string>哇哦小生</string>
+		<key>title</key>
+		<string>“说说我的求职经验”</string>
+		<key>detailMsg</key>
+		<string>建立一定要详细，又要简所谓要详，就是指一定要充分地把自己的优势披露出来，就是不用吧一些虚的东西一一颠倒，但一定要吧很实际的东西展现出来。哈哈，这就是我的求职经历</string>
+		<key>date</key>
+		<string>2016/8/23 14:23:45</string>
+		<key>like</key>
+		<string>198</string>
+		<key>comment</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>userId</key>
+		<string>21345</string>
+		<key>iconName</key>
+		<string>aio_voiceChange_effect_1</string>
+		<key>userName</key>
+		<string>小小猪</string>
+		<key>title</key>
+		<string>《简历设计方法》</string>
+		<key>detailMsg</key>
+		<string>建立一定要详细，又要简所谓要详，就是指一定要充分地把自己的优势披露出来，就是不用吧一些虚的东西一一颠倒，但一定要吧很实际的东西展现出来。哈哈，这就是我的求职经历</string>
+		<key>date</key>
+		<string>2016/7/5 14:23:45</string>
+		<key>like</key>
+		<string>46</string>
+		<key>comment</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>userId</key>
+		<string>12345</string>
+		<key>iconName</key>
+		<string>addressbook_list_user</string>
+		<key>userName</key>
+		<string>IT民工</string>
+		<key>title</key>
+		<string>程序员的感悟！！！</string>
+		<key>detailMsg</key>
+		<string>回顾在腾讯的十年，作为一个本科生，在腾讯担任了十年总监级别的人物，心情自然是很好的。因为我毕业于XXXX大学这一役所十分牛逼的学校，哈哈，又被套路了吧！！！</string>
+		<key>date</key>
+		<string>2016/4/12 14:23:45</string>
+		<key>like</key>
+		<string>303</string>
+		<key>comment</key>
+		<string>200</string>
+	</dict>
+	<dict>
+		<key>userId</key>
+		<string>23123</string>
+		<key>iconName</key>
+		<string>company_holder</string>
+		<key>userName</key>
+		<string>西南交大就业服务中心</string>
+		<key>title</key>
+		<string>找工作的注意要点，注意！！！</string>
+		<key>detailMsg</key>
+		<string>找工作的时候一定要到正规的网站或者招聘市场投递简历，千万不能再一些不正规的地方投递简历，这样会造成个人信息泄露等等安全隐患</string>
+		<key>date</key>
+		<string>2016/3/4 14:23:45</string>
+		<key>like</key>
+		<string>45</string>
+		<key>comment</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>userId</key>
+		<string>21345</string>
+		<key>iconName</key>
+		<string>place_holder</string>
+		<key>userName</key>
+		<string>百度人力资源部</string>
+		<key>title</key>
+		<string>百度需要什么样的人才？</string>
+		<key>detailMsg</key>
+		<string>百度需要那些有梦想，并且肯为之付出努力的人！百度的创业史就是一部奋斗史！</string>
+		<key>date</key>
+		<string>2015/12/18 14:23:45</string>
+		<key>like</key>
+		<string>23</string>
+		<key>comment</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>userId</key>
+		<string>23134</string>
+		<key>iconName</key>
+		<string>anon_group_chat_forbid</string>
+		<key>userName</key>
+		<string>阿里巴巴</string>
+		<key>title</key>
+		<string>我们需要什么样的人？</string>
+		<key>detailMsg</key>
+		<string>阿里巴巴需要有梦想的人，为客户服务。我们的宗旨就是让天下没有难做的生意，服务中小企业！做世界级的电商平台！</string>
+		<key>date</key>
+		<string>2015/7/5 14:23:45</string>
+		<key>like</key>
+		<string>33</string>
+		<key>comment</key>
+		<string>5</string>
+	</dict>
+</array>
+</plist>

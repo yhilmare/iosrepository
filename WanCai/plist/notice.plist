@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>viewTag</key>
+		<string>0</string>
+		<key>comName</key>
+		<string>万才官方</string>
+		<key>detailMsg</key>
+		<string>尊敬的客户您好，欢饮您使用我们的产品，您如果对我们有什么好的意见和建议，请登录我们的网站！</string>
+		<key>date</key>
+		<string>2016/7/31 15:34:45</string>
+		<key>iconName</key>
+		<string>icon_version</string>
+	</dict>
+	<dict>
+		<key>viewTag</key>
+		<string>0</string>
+		<key>comName</key>
+		<string>小帮手</string>
+		<key>detailMsg</key>
+		<string>您好，我是您的小秘书哦！有什么问题可以问我！</string>
+		<key>date</key>
+		<string>2016/7/29 15:34:45</string>
+		<key>iconName</key>
+		<string>icon_version</string>
+	</dict>
+	<dict>
+		<key>viewTag</key>
+		<string>0</string>
+		<key>comName</key>
+		<string>万才小秘书</string>
+		<key>detailMsg</key>
+		<string>尊敬的客户您好，欢迎您使用我们公司的app。万才网是江苏省无锡市人民政府与万才信息共建的一个项目。从今天起我们就要日夜为您服务咯，有什么需要的尽管给我们说，我们会尽量解答您的疑问，也祝您在万才网找到您心仪的工作，祝您家庭美满阖家欢乐。我谨代表万才网的全体员工感谢您的支持与理解，谢谢！</string>
+		<key>date</key>
+		<string>2016/8/1 15:34:45</string>
+		<key>iconName</key>
+		<string>icon_version</string>
+	</dict>
+</array>
+</plist>
