@@ -1,2 +1,2 @@
 # iosrepository
-This is a ios project
+This is an ios project, powered by IL MARE.
